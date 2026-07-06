@@ -1,4 +1,4 @@
-# Полностью восстановленная карта клавиш строго по твоим файлам на диске
+# Карта клавиш для всего приложения
 KEY_MAP = {
     'q': ('Крыса', 'hand_seals/04_Rat.png'),
     'w': ('Бык', 'hand_seals/09_Ox.png'),
@@ -14,7 +14,7 @@ KEY_MAP = {
     'v': ('Кабан', 'hand_seals/12_Boar.png')
 }
 
-# База данных всех доступных техник (дзюцу) с твоими оригинальными кастами
+# База данных всех доступных техник (дзюцу)
 NINJUTSU_DATABASE = {
     "xcfxcf": {
         "name": "Чидори",
@@ -24,7 +24,7 @@ NINJUTSU_DATABASE = {
         "name": "Огненный шар (Катон)",
         "effect": "hand_seals/katon.gif"
     },
-    "vxxrwf": {
+    "vxxrwd": {
         "name": "Расенган",
         "effect": "hand_seals/rosengan.gif"
     },
@@ -39,5 +39,13 @@ NINJUTSU_DATABASE = {
     "sazqxcv": {
         "name": "Стихия Дерева (Мокутон)",
         "effect": "hand_seals/wood.gif"
+    },
+    "qwszxr": {
+        "name": "Шинра Тенсей",
+        "effect": "hand_seals/shinra.gif"
+    },
+    "vxcase": {
+        "name": "Расен Сюрикен",
+        "effect": "hand_seals/suriken.gif"
     }
 }
